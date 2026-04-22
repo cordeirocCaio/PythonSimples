@@ -5,4 +5,5 @@ print("Teste")
 
 
 print("Teste 2")
-
+curso = "Python dev"
+print("Estou fazendo o curso de", curso)
